@@ -18,7 +18,7 @@
     
       - Primary or Secondary -- Leader Election
         
-            - Output:
+             Output:
                 - If an IP address is returned then you are on active server. Do not proceed with an active server.
                 - If it's not primary, then proceed with next step.
     

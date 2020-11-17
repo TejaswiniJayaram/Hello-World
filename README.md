@@ -6,3 +6,7 @@ Trying to Learn
 Thank you!!!
 
 *italic*
+
+- item 1
+- item 2
+

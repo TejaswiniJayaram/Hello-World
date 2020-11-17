@@ -6,7 +6,7 @@
 
 2. Establish the connection between different servers
 
-..* Through SSH connection
+  ..* Through SSH connection
 
 
 

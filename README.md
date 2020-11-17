@@ -9,7 +9,7 @@
     - Establish a Passwordless Authentication
     
 3. Tasks
-     a. Login Action
+    a. Login Action
 
 
 

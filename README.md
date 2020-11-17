@@ -25,6 +25,14 @@
      d. GitClone the repo and run the pre-check script
      
       - In Case of Failures Create the Log files & Investigate the logs
+      
+     e. Hold the MLX Config & MLX Firmware
+     
+     f. Apply the Patch - Shell Scripts
+     
+     g. Verify the Kernel Versions
+     
+     h. Apply Salt Formula to maintain the old routing tables
     
     
   

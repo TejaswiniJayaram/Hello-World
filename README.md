@@ -16,6 +16,7 @@
     
     
     c. Check for the Server Status if it is Primary or Secondary
+    
         - Primary or Secondary -- Leader Election
         
         - Output:

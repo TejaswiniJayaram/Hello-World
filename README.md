@@ -35,6 +35,7 @@
      h. Apply Salt Formula to maintain the old routing tables
     
     
+    ![test image size](/img/post-bg-2015.jpg){:height="50%" width="50%"}
   
 
 

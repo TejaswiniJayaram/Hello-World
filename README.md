@@ -35,7 +35,7 @@
      h. Apply Salt Formula to maintain the old routing tables
     
     
-    ![test image size](https://github.com/TejaswiniJayaram/Hello-World/blob/main/img/Reboot_Block_Diagram.png)<!-- .element height="300%" width="300%" -->
+    ![test image size](https://github.com/TejaswiniJayaram/Hello-World/blob/main/img/Reboot_Block_Diagram%202.png)
   
 
 

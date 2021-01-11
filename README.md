@@ -34,7 +34,7 @@
      
      h. Apply Salt Formula to maintain the old routing tables
      
-     ![test image](https://github.com/TejaswiniJayaram/Hello-World/blob/main/img/Dynamic_Inventory%20(1).png)
+     ![test image size](https://github.com/TejaswiniJayaram/Hello-World/blob/main/img/Dynamic_Inventory.png)
     
     
      ![test image size](https://github.com/TejaswiniJayaram/Hello-World/blob/main/img/Final_reboot.png)

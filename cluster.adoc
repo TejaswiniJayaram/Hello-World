@@ -1,1 +1,3 @@
 cluster inventory
+
+image::https://github.com/TejaswiniJayaram/Hello-World/blob/main/img/Dynamic_Inventory.png
